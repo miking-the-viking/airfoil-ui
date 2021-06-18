@@ -55,7 +55,7 @@ describe('air input does what it should...', () => {
       });
 
       it('can disable the input', async () => {
-        render(<AirInput disabled={true} />);
+        render(<AirInput disabled={false} />);
 
         expect(queryInput()).toBeDisabled();
       });
