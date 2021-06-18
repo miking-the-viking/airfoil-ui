@@ -1,0 +1,5 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Airfoil UI (Automatic)" type="wallaby" factoryName="Wallaby.js" singleton="true" configType="Automatic" configFolder="$PROJECT_DIR$" wsl="Yes">
+    <method v="2" />
+  </configuration>
+</component>
